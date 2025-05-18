@@ -1,3 +1,0 @@
-
-var hp03s = exports.connect( { i2c: null, mclk: null, xclr: null }, function() {} );
-hp03s.getPressure;
